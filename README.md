@@ -14,5 +14,8 @@ This is a web-based text editor with a variety of features and formatting option
 <strong>Text Color:</strong>Change the color of your text to make it stand out.<br>
 <strong>Highlight Color:</strong> Apply highlights to emphasize important content.<br></p>
 
-# Demo
+# Live Demo
+
+Check out the live demo of this project: [Live Demo](https://codeharsharma.github.io/CodeClause_TextEditor/)
+
 # CodeClause_TextEditor.github.io
